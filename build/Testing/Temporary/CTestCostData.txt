@@ -1,2 +1,2 @@
-EquivRelation 1 0.00272115
+EquivRelation 2 0.00286053
 ---

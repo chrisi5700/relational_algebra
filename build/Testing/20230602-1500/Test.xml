@@ -21,11 +21,11 @@
 	TotalVirtualMemory="2047"
 	TotalPhysicalMemory="15941"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="2059.3"
+	ProcessorClockFrequency="2064.07"
 	>
 	<Testing>
-		<StartDateTime>Jun 02 17:34 CEST</StartDateTime>
-		<StartTestTime>1685720066</StartTestTime>
+		<StartDateTime>Jun 02 17:43 CEST</StartDateTime>
+		<StartTestTime>1685720620</StartTestTime>
 		<TestList>
 			<Test>./tests/EquivRelation</Test>
 		</TestList>
@@ -36,7 +36,7 @@
 			<FullCommandLine>/home/chris/Documents/cpp/relational_algebra/build/tests/equiv_relation</FullCommandLine>
 			<Results>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.00272115</Value>
+					<Value>0.00299991</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -55,8 +55,8 @@
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>Jun 02 17:34 CEST</EndDateTime>
-		<EndTestTime>1685720066</EndTestTime>
+		<EndDateTime>Jun 02 17:43 CEST</EndDateTime>
+		<EndTestTime>1685720620</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
