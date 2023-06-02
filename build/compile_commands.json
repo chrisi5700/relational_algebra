@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chris/Documents/cpp/relational_algebra/build",
+  "command": "/bin/x86_64-linux-gnu-g++-11   -g -o CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o -c /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp",
+  "file": "/home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp"
+}
+]

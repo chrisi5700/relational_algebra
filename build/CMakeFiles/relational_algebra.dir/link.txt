@@ -1,0 +1,2 @@
+/bin/x86_64-linux-gnu-ar qc librelational_algebra.a CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o
+/bin/x86_64-linux-gnu-ranlib librelational_algebra.a
