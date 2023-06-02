@@ -3,5 +3,30 @@
   "directory": "/home/chris/Documents/cpp/relational_algebra/build",
   "command": "/bin/x86_64-linux-gnu-g++-11   -g -o CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o -c /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp",
   "file": "/home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp"
+},
+{
+  "directory": "/home/chris/Documents/cpp/relational_algebra/build/tests",
+  "command": "/bin/x86_64-linux-gnu-g++-11  -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/include -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Weffc++ -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o -c /home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp",
+  "file": "/home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp"
+},
+{
+  "directory": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-build/googlemock",
+  "command": "/bin/x86_64-linux-gnu-g++-11  -I/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock/include -I/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/include -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-build/googlemock",
+  "command": "/bin/x86_64-linux-gnu-g++-11  -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock/include -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/include -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-build/googletest",
+  "command": "/bin/x86_64-linux-gnu-g++-11  -I/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/include -I/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-build/googletest",
+  "command": "/bin/x86_64-linux-gnu-g++-11  -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/include -isystem /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/chris/Documents/cpp/relational_algebra/build/_deps/googletest-src/googletest/src/gtest_main.cc"
 }
 ]
