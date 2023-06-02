@@ -14,7 +14,7 @@ CostDataFile:
 Site: chris-B450M-GAMING
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Linux-x86_64-linux-gnu-g++-11
+BuildName: Linux-c++
 
 # Subprojects
 LabelsForSubprojects: 
@@ -62,7 +62,7 @@ UpdateOptions:
 UpdateType: git
 
 # Compiler info
-Compiler: /bin/x86_64-linux-gnu-g++-11
+Compiler: /usr/bin/c++
 CompilerVersion: 11.3.0
 
 # Dynamic analysis (MemCheck)

@@ -73,15 +73,15 @@ tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o: tests/CMakeFiles/equiv
 tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o: ../tests/equiv_rel_test.cpp
 tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o: tests/CMakeFiles/equiv_relation.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chris/Documents/cpp/relational_algebra/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o"
-	cd /home/chris/Documents/cpp/relational_algebra/build/tests && /bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o -MF CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o.d -o CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o -c /home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp
+	cd /home/chris/Documents/cpp/relational_algebra/build/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o -MF CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o.d -o CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o -c /home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp
 
 tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.i"
-	cd /home/chris/Documents/cpp/relational_algebra/build/tests && /bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp > CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.i
+	cd /home/chris/Documents/cpp/relational_algebra/build/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp > CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.i
 
 tests/CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.s"
-	cd /home/chris/Documents/cpp/relational_algebra/build/tests && /bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp -o CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.s
+	cd /home/chris/Documents/cpp/relational_algebra/build/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chris/Documents/cpp/relational_algebra/tests/equiv_rel_test.cpp -o CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.s
 
 # Object files for target equiv_relation
 equiv_relation_OBJECTS = \

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Site BuildName="Linux-x86_64-linux-gnu-g++-11"
+<Site BuildName="Linux-c++"
 	BuildStamp="20230602-1500-Experimental"
 	Name="chris-B450M-GAMING"
 	Generator="ctest-3.22.1"
-	CompilerName="/bin/x86_64-linux-gnu-g++-11"
+	CompilerName="/usr/bin/c++"
 	CompilerVersion="11.3.0"
 	OSName="Linux"
 	Hostname="chris-B450M-GAMING"
@@ -21,14 +21,42 @@
 	TotalVirtualMemory="2047"
 	TotalPhysicalMemory="15941"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="2070.8"
+	ProcessorClockFrequency="2059.3"
 	>
 	<Testing>
-		<StartDateTime>Jun 02 17:00 CEST</StartDateTime>
-		<StartTestTime>1685718049</StartTestTime>
-		<TestList/>
-		<EndDateTime>Jun 02 17:00 CEST</EndDateTime>
-		<EndTestTime>1685718049</EndTestTime>
+		<StartDateTime>Jun 02 17:34 CEST</StartDateTime>
+		<StartTestTime>1685720066</StartTestTime>
+		<TestList>
+			<Test>./tests/EquivRelation</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>EquivRelation</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/EquivRelation</FullName>
+			<FullCommandLine>/home/chris/Documents/cpp/relational_algebra/build/tests/equiv_relation</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00272115</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/chris/Documents/cpp/relational_algebra/build/tests/equiv_relation</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyLtoWDWIWg0ry8zLx0BQOFktTikmKFtKL8XChHobg0E0jrcUUja8CtUKEoMU9PQcNAIbdYoSS/JDFHkytaQSHAMTjY1UVBAa5TjwsANFEnhw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jun 02 17:34 CEST</EndDateTime>
+		<EndTestTime>1685720066</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

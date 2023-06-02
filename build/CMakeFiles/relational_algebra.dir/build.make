@@ -73,15 +73,15 @@ CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o: CMakeFiles/relationa
 CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o: ../relational_algebra.cpp
 CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o: CMakeFiles/relational_algebra.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chris/Documents/cpp/relational_algebra/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o"
-	/bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o -MF CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o.d -o CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o -c /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o -MF CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o.d -o CMakeFiles/relational_algebra.dir/relational_algebra.cpp.o -c /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp
 
 CMakeFiles/relational_algebra.dir/relational_algebra.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/relational_algebra.dir/relational_algebra.cpp.i"
-	/bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp > CMakeFiles/relational_algebra.dir/relational_algebra.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp > CMakeFiles/relational_algebra.dir/relational_algebra.cpp.i
 
 CMakeFiles/relational_algebra.dir/relational_algebra.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/relational_algebra.dir/relational_algebra.cpp.s"
-	/bin/x86_64-linux-gnu-g++-11 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp -o CMakeFiles/relational_algebra.dir/relational_algebra.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chris/Documents/cpp/relational_algebra/relational_algebra.cpp -o CMakeFiles/relational_algebra.dir/relational_algebra.cpp.s
 
 # Object files for target relational_algebra
 relational_algebra_OBJECTS = \

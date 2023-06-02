@@ -1,1 +1,1 @@
-/bin/x86_64-linux-gnu-g++-11 -g -rdynamic CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o -o equiv_relation  ../lib/libgtest_maind.a ../lib/libgtestd.a 
+/usr/bin/c++ -g -rdynamic CMakeFiles/equiv_relation.dir/equiv_rel_test.cpp.o -o equiv_relation  ../lib/libgtest_maind.a ../lib/libgtestd.a 
